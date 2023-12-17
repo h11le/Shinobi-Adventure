@@ -1,0 +1,26 @@
+Game Proposal
+
+Title: Shinobi Adventure
+
+Summary: An amateur ninja is in his adventure to gain essential skills and fight the potential enemies to reach the title of Kage (for the greatest shinobi in a region)
+
+My goals that I plan to accomplish:
++ Having the characters animated like in video games
++ Every tool/skill/enemy has its own motion animated
++ Having platforms
++ Having the scrolling screen
++ Having the music turned on/off when needed
++ Saving the record of players who reached high scores
++ Having a nice menu of choices
++ Having clear instructions and easy ways to exit
++ Having the game’s difficulty increased gradually
+
+My goals I hope to accomplish if I have time:
++ Having multiple levels and obstacles
++ Having multiple tilesets
++ Having multiple models of characters
++ Having the character reacting at the end of the game (crying when losing, celebrating when winning)
++ Having more decoration
+
+Inspiration: from the Japanese manga series named Naruto, “it tells the story of Naruto Uzumaki, 
+a young ninja who seeks to gain recognition from his peers and also dreams of becoming the Hokage, the leader of his village” (Wikipedia).
